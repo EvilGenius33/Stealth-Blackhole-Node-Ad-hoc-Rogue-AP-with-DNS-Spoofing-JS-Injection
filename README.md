@@ -34,7 +34,7 @@ Use this tool to simulate real-world wireless MITM attacks and test the resilien
   - `apache2`
   - `ettercap-text-only`
 
-## Diclaimer
+## Disclaimer
 
 This tool is provided for educational and authorized security testing purpose only.
 The autor is not responsible for any misuse or damage caused by this software.
