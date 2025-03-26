@@ -42,3 +42,10 @@ Use this tool to simulate real-world wireless MITM attacks and test the resilien
 sudo apt update
 sudo apt install -y olsrd tcpdump apache2 ettercap-text-only
 
+
+## Diclaimer
+
+This tool is provided for educational and authorized security testing purpose only.
+The autor is not responsible for any misuse or damage caused by this software.
+Always obtain proper consent before using it in any envirioments.
+
